@@ -8,6 +8,6 @@ title: Nurali's Blog
 	  {% for post in site.posts %}
 	    <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 	    <sub>{{ post.date | date_to_string }}</sub>
-	    <p>{{ post.content | truncatewords:50 }}</p>
+	    <div style="text-align: justify !important;">{{ post.content | truncatewords:50 }}</div>
 	  {% endfor %}
 	</ul>
