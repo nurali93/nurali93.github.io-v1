@@ -694,7 +694,7 @@
 
 	#main {
 		position: relative;
-		max-width: 100%;
+		max-width: 64rem;
 		min-width: 27em;
 		min-height: 30em;
 		padding: 4.5em 3em 3em 3em ;
