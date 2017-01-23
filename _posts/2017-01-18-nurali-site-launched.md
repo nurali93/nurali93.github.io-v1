@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Post by Nurali
+author: Nurali
 date: 2017-01-18 12:00:00 +0800
 published: true
 ---
