@@ -8,6 +8,11 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+.tech-used {
+    width: 150px;
+    height: 150px;
+}
+
 .doc-container {
     position: relative;
     padding-bottom: 56.25%;
