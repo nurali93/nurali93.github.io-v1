@@ -6,7 +6,7 @@ title: Nurali's Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+	    <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 	    <sub>{{ post.date | date_to_string }}</sub>
 	    <div style="text-align: justify !important;">{{ post.content | truncatewords:50 }}</div>
 	  {% endfor %}
