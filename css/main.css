@@ -192,7 +192,7 @@
 	}
 
 	h2 {
-		font-size: 1.25em;
+		font-size: 1.65em;
 	}
 
 	h3 {
@@ -215,6 +215,10 @@
 
 		h1 {
 			font-size: 1.65em;
+		}
+
+		h2 {
+			font-size: 1.35em;
 		}
 
 	}
