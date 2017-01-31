@@ -36,14 +36,6 @@ nav ul li, footer ul li {
     height: auto;
 }
 
-.resume {
-    display: block;
-    max-width:600px;
-    max-height:600px;
-    width: auto;
-    height: auto;
-}
-
 blockquote {
     font: italic 11px/30px sans-serif;
     margin-top: 10px;
