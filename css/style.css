@@ -8,14 +8,6 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-.tech {
-    display: inline-block;
-    max-width:200px;
-    max-height:100px;
-    width: auto;
-    height: auto;
-}
-
 .doc-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -34,4 +26,12 @@ nav ul li, footer ul li {
 
 .anchorplus {
     color: inherit;  
+}
+
+.tech {
+    display: inline-block;
+    max-width:200px;
+    max-height:100px;
+    width: auto;
+    height: auto;
 }
