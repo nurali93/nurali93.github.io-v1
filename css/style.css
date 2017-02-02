@@ -51,6 +51,14 @@ blockquote {
   max-width: 40%;
 }
 
+.pthumbnail {
+  max-width: 20%;
+}
+
+img .pthumbnail {
+    
+}
+
 .lightbox {
     /** Default lightbox to hidden */
     display: none;
