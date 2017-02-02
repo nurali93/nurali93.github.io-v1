@@ -53,10 +53,11 @@ blockquote {
 
 .pthumbnail {
   max-width: 20%;
+  margin: 0 10px;
 }
 
 img .pthumbnail {
-    
+
 }
 
 .lightbox {
