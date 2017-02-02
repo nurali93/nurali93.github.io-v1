@@ -82,6 +82,10 @@ img .pthumbnail {
     margin-top: 2%;
 }
 
+.lb {
+    height: 50%;
+}
+
 .lightbox:target {
     /** Remove default browser outline */
     outline: none;
@@ -91,8 +95,9 @@ img .pthumbnail {
 }
 
 .mini-hr hr{
-    border: 0;
-    border-bottom: solid 1px #c8cccf;
-    margin: 3em 0;
+    margin: auto;
+    align-items: center;
+    margin-top: 3em;
+    margin-bottom: 3em;
     width: 50%;
 }
